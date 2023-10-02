@@ -2,9 +2,9 @@
     git clone git@github.com:nom-utilisateur/git-begins.git
 
 ➔ Les 3 commandes de push
-git add:git clone alex@93.188.160.58:/chemin/vers/dépôt
-git commit:git commit –m “Description du commit”
-git push :git push origin master
+    git add:git clone alex@93.188.160.58:/chemin/vers/dépôt
+    git commit:git commit –m “Description du commit”
+    git push :git push origin master
 
 ➔ La commande pull :
     git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
